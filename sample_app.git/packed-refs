@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled 
+e3a3987328185505ce40eedbdc290bd82bab3f08 refs/heads/master
+6d7a8080f1aaeb6451dcefd5ed08365532dae08f refs/heads/rails-flavored-ruby
+ae0430c94718e1f6d73d4aa2d89ab0adafb956b0 refs/heads/static-pages
